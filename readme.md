@@ -1,6 +1,6 @@
 /**
- * Author: Xinyue Liu and Nathan Grof
- * Date: 2018/8/21
+ * Author: Xinyue Liu and Zury Vasquez
+ * Date: 2018/8/23
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Xinyue Liu and Nathan Grof\n");
+  printf("Xinyue Liu Computer Science/n Zury Vasquez Electrical Engineering");
 
   return 0;
 }
